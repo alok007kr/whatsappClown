@@ -1,0 +1,13 @@
+Our Plan to create real time chatting application.
+
+Steps are written below:-
+
+Create NPM project
+Create Index, Css, Js files
+install dependencies.express, nodemon
+Create a express server
+do front end part
+install socket.io setup spocket.io in sever.Js and client client.Js
+client send mesaage logic in client.Js
+recieve message on server and broadcast to all clients
+receive message on client and display it. scroolToBottom etc...
